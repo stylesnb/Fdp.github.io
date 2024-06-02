@@ -98,7 +98,7 @@ class ParticleAnimation {
     const x = clientX - rect.left - (w / 2);
     const y = clientY - rect.top - (h / 2);
     const inside = x < (w / 2) && x > -(w / 2) && y < (h / 2) && y > -(h / 2);
-    if (inside) {
+    if(inside) {
       this.mouse.x = x;
       this.mouse.y = y;
     }
@@ -171,9 +171,9 @@ class ParticleAnimation {
       ];
       const closestEdge = edge.reduce((a, b) => Math.min(a, b));
       const remapClosestEdge = this.remapValue(closestEdge, 0, 20, 0, 1).toFixed(2);
-      if (remapClosestEdge > 1) {
+      if(remapClosestEdge > 1) {
         circle.alpha += 0.02;
-        if (circle.alpha > circle.targetAlpha) circle.alpha = circle.targetAlpha;
+        if(circle.alpha > circle.targetAlpha) circle.alpha = circle.targetAlpha;
       } else {
         circle.alpha = circle.targetAlpha * remapClosestEdge;
       }
