@@ -27,6 +27,12 @@ html {
     font-variation-settings: normal;
 }
 
+@media (max-width: 600px) {
+    body {
+        font-size: 18px;
+    }
+}
+
 body {
     margin: 0;
     line-height: inherit;
