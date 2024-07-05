@@ -1,3 +1,1 @@
-freddy:models---imposter:models---rabbit:models---classic:cape---none:cape---expand:design---particle:design---background:design---logo:design---
-abstract:cape---aurora:cape---blue:cape---citrus:cape---classic2:cape---fire:cape---forest:cape---lava:cape---lavender:cape---modern1:cape---
-modern2:cape---ocean:cape---owner:cape---rose:cape---swirl:cape
+freddy:models---imposter:models---rabbit:models---classic:cape---none:cape---expand:design---particle:design---background:design---logo:design---abstract:cape---aurora:cape---blue:cape---citrus:cape---classic2:cape---fire:cape---forest:cape---lava:cape---lavender:cape---modern1:cape---modern2:cape---ocean:cape---owner:cape---rose:cape---swirl:cape
