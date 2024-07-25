@@ -1,3 +1,11 @@
 New Base
+Fix Memory Leak
+feat: CrossHair option on HUD Module
+fix check distance to entity for noRotation in killaura
+Feat TickBase Module
+Feat KillESP Module
+Fix KillAura Reach
+Fix KillAura AutoBlock Disable
+Feat: RU translate update 
 Fixed Many Bugs
 Main Menu improvements
