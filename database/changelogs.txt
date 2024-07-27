@@ -1,3 +1,20 @@
+feat: Arraylist Fade Color
+feat: Arraylist Top RectMode
+feat: Arraylist Special RectMode
+feat: Arraylist Outline RectMode
+added: HealthWarn Module
+added: Glint Module
+added: FakePlayer Module
+feat: KillESP Mode Sims
+feat: KillESP Mode Zavz
+…selection options, moved all rotation options to rotation-utilizing options and removed ExperimentalLinearCurveRotation option.
+Fixed SlowDownOnDirectionChange.
+Renamed randomization related options from KillAura.
+Added Body point targeting options.
+Removed ExperimentalLinearCurveRotation.
+Moved all Rotations module's options to rotation utils utilizing modules.
+feat: Disabler Mode: BasicDisabler 
+feat: Disabler Node: noRotationDisabler 
 New Base
 Fix Memory Leak
 feat: CrossHair option on HUD Module
