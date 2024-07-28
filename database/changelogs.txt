@@ -1,3 +1,18 @@
+feat: Inventory Plus HUD Module (working)
+feat: NoRender Module && remove target command (you can use .target because have module)
+feat: Chams Hand Mode / color options / behind options / textured and possible use legacy mode
+fix: target commands
+feat: RearView Custom Fov/FrameBuffer/ThirdPersonView
+fix: ClientBrandRetriever doest not interrupt with connection
+fix: IRC Commands
+feat: Better Spot randomization
+feat: Item Rotation Animate
+feat: Rear View Element
+feat: Camera View Module
+feat: matrix speed modes ("MatrixHop2", "Matrix6.6.1", "Matrix6.9.2")
+feat: verus speed modes ("OldHop", "Float", "Ground", "YPort", "YPort2")
+feat: Combat Visuals - fakesharp option
+feat: Combat Visuals (KillESP + AttackEffects (Combine Modules))
 feat: Arraylist Fade Color
 feat: Arraylist Top RectMode
 feat: Arraylist Special RectMode
