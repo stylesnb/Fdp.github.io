@@ -1,3 +1,21 @@
+b5 release:
+feat: Log4j, CommandComplete, Inventory, MultiverseCore - server crasher
+feat: Made slow rotation starts occur a bit more realistically.
+fix: fireball fly values
+feat: antifireball ticks check
+feat: verus glide & uncp lowhop 
+fix: fixed nullpointer spam
+fix: fixed backtrack chunk & tickbase working with no targets
+feat: Border Classic Notifications and fix commands AddAll, Clip, ConnectCommand
+feat: SnakeGame color and font size
+feat: Made SimulateShortStop perform a bit more realistic sho…
+feat: Chance option to SuperKnockback.
+feat: Config Command - openfolder/create config(bug criando formato errado)/list config/delete config/load config/current
+fix: TimerRange use spot
+feat: A bit of a more realistic speed change for the Relative…
+feat: GuiClicker Module
+feat: notifications classic style
+b4 released:
 feat: Inventory Plus HUD Module (working)
 feat: NoRender Module && remove target command (you can use .target because have module)
 feat: Chams Hand Mode / color options / behind options / textured and possible use legacy mode
