@@ -1,3 +1,67 @@
+fix: proper renderutils color reset
+fix: scoreboard rect color reset
+fix: localconfig delete command
+fix: blink antivoid with scaffold
+feat: added fishing rods
+feat: Experimental packet cancel option to Backtrack.
+fix: blink antivoid
+feat: added newpushdown animation
+feat: backtrack desync & add reset to backtrack
+feat: added verusfhop speed mode, improve verusglide fly mode
+refactor: rewrite MLG nofall
+feat: back target styles 
+fix: log4j syntax
+fix: tower rotating even if rotations are off
+feat: modes to tickbase module.
+fix: chat alert - armor element
+feat: atributes blink color - armor element
+feat: armor Alert Repair Reminder Threshold / Alert Durability Threshold
+fix: armor element alignment atributes / cleanup code
+fix: keybindmanager bind names / cleanup code
+feat: macro manager / macro command / macro on binds
+feat: invmove fullMovements/nomoveclicks/noDetectable/rotate mode
+feat: keybind manager ui
+fix: make all visual cheststealer values subjective
+refactor: move jumpstrafe and fix maxverticalspeed
+fix: verusglide fly flags
+feat: scaffold jumpstrafe option
+fix: use infix for safe division
+feat: added blink antivoid & renamed bugup -> antivoid
+fix: save division cast int to float
+fix: safe division for randomclickdelay
+feat: added invutils finditemarray, selfinteract optimization
+feat: update speed HypixelHop
+feat: added the line option to fakelag
+feat: in singleplayer you can only blink via receive mode
+fix: MinEnemyRotDiffToIgnore option
+fix: fix the JumpDirections option in Sprint
+fix: subjective values not being subjective (InventoryManager)
+fix: projectiles sidehit null
+feat: fixed, improved & optimized staff detector
+feat: added velocity pause on explosion
+feat: added antibot capabilities mode
+feat: added blinkautoblock blink ticks
+feat: inventorymove mouse support
+feat: Color Theme client added / I will bring the interface soon
+fix: disabler values / killaura slow down on direction change
+feat: added noslow foodonly & drinkonly & intave consume
+feat: add MinRotationDiffFromEnemyToIgnore to SuperKnockback
+fix: tickbase line option & backtrack isSelected
+feats: NoRotation (Min/Max)HorizontalBodySearch, MinRotationDifference/RotationRecorder module
+fix: black hotbar option not being aligned correctly.
+fix: blinkautoblock sequence
+fix: add missing tower option to scaffold
+fix: Safe division for rotation slow down calculations.
+feat: World Color option ambience
+feat: Ambience dynamic/day/dusk/night mode
+fix: treat Godbridge mode as Godbridge rotation mode
+feat: Make TickBase's visuals customizable
+feat: add NotOnMove option to Tower
+feat: vulcan tower
+feat: hypixel bypasses (nofall, autoblock)
+feat: improved & added more option to customspeed
+feat: tickbase min/max range, changes, only killaura
+feat: InventoryManager 
 b5 release:
 feat: Log4j, CommandComplete, Inventory, MultiverseCore - server crasher
 feat: Made slow rotation starts occur a bit more realistically.
