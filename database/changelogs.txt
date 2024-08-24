@@ -1,3 +1,4 @@
+b6 release:
 fix: proper renderutils color reset
 fix: scoreboard rect color reset
 fix: localconfig delete command
